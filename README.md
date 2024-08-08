@@ -14,7 +14,7 @@ Website ini adalah halaman profil pribadi Henry Filberto Shenelo, yang menampilk
    Buka https://create-new-app-inky.vercel.app/
 
 ## Cara Menjalankan Program Secara Lokal
-- **Git Clone
-- **cd -nama repositori
-- ** jalankan command 'npm install' pada terminal
-- ** jalankan command 'npm run dev' pada terminal
+Git Clone
+cd -nama repositori
+jalankan command 'npm install' pada terminal
+jalankan command 'npm run dev' pada terminal
