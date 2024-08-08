@@ -11,8 +11,9 @@ Website ini adalah halaman profil pribadi Henry Filberto Shenelo, yang menampilk
 - **Hosting/Deployment:** Vercel
 
 ## Cara Menjalankan Program
-- **Buka https://create-new-app-inky.vercel.app/
-- Jika ingin menjalankan program secara lokal
+   Buka https://create-new-app-inky.vercel.app/
+
+## Cara Menjalankan Program Secara Lokal
 - **Git Clone
 - **cd -nama repositori
 - ** jalankan command 'npm install' pada terminal
